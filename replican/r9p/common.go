@@ -1,7 +1,7 @@
 
 package r9p
 
-const ROOT_FILE  string = "/root"
+const ROOT_FILE  string = "noderoot"
 
-const STRONG_DIR string = "/strong"
+const STRONG_DIR string = "strong"
 
